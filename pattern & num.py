@@ -1,39 +1,51 @@
-print("Welcome to the Pattern Generater and Number Analyzer system..!")
+print("Welcome to the Pattern Generator and Number Analyzer System..!")
 
-print("Select Option.. ")
-print("1. Generate Pattern ")
-print("2. Analyze a Range of Number ")
-print("3. Exit")
+while True:
 
-choice=int(input("Enter Your Choice = "))
+    print("\n===== MENU =====")
+    print("1. Generate Pattern")
+    print("2. Analyze a Range of Numbers")
+    print("3. Exit")
 
-match choice :
-    case 1:
-        
-        j=int(input("Enter End Number.."))
-        print("Pattern..!!")
+    choice = int(input("Enter Your Choice: "))
 
-        print("\n")
-        for a in range(1,j):
-            for b in range(a):
-                print("*",end=" ")
+    if choice == 1:
+
+        rows = int(input("Enter End Number: "))
+        print("\nPattern:\n")
+
+        a = 1
+        while a <= rows:
+            b = 1
+            while b <= a:
+                print("*", end=" ")
+                b += 1
             print()
+            a += 1
 
-    case 2:
+    elif choice == 2:
 
-        i=int(input("Enter Your First Number plz...!!"))
-        j=int(input("Enter Your Last Number plz..!!"))
+        start = int(input("Enter First Number: "))
+        end = int(input("Enter Last Number: "))
 
-        for a in range (i,j):
-            if a%2==0:
-                print("Number",a,"Is Even")
+        num = start
+        total = 0
+
+        while num <= end:
+
+            if num % 2 == 0:
+                print("Number", num, "is Even")
             else:
-                print("Number",a,"Is Odd")
+                print("Number", num, "is Odd")
 
-        total=sum(range(i,j+1))
-        print("Sum of Total Number from",i,"To",j,"is :-",total)
+            total += num
+            num += 1
 
-    case 3:
-        print("Welcome Back, Thank you..")
+        print("Sum of Total Numbers from", start, "to", end, "is:", total)
 
-        exit
+    elif choice == 3:
+        print("Thank You! Program Closed.")
+        break
+
+    else:
+        print("Invalid Choice! Please enter 1, 2, or 3.")
