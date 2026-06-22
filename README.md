@@ -1,3 +1,4 @@
+
 Pattern Generator & Number Analyzer
 
 A simple yet interactive Python Console Application that allows users to:
@@ -66,12 +67,14 @@ Select Option..
 
 Save your screenshot as: screenshots/pattern-generator.png
 
+<img width="503" height="239" alt="Screenshot 2026-06-18 114336" src="https://github.com/user-attachments/assets/6c10a082-f21b-41b2-a48a-9b0d4662cb80" />
 
 
 🔢 Number Analyzer
 
 Save your screenshot as: screenshots/number-analyzer.png
 
+<img width="499" height="198" alt="Screenshot 2026-06-18 114456" src="https://github.com/user-attachments/assets/b4338cc8-4cb4-4adf-b69b-1b530a910e7d" />
 
 
 
@@ -79,6 +82,7 @@ Save your screenshot as: screenshots/number-analyzer.png
 
 Save your screenshot as: screenshots/exit-program.png
 
+<img width="494" height="79" alt="Screenshot 2026-06-18 114550" src="https://github.com/user-attachments/assets/ab685fbb-917d-4804-9342-5148528fd64a" />
 
 
 
