@@ -1,4 +1,4 @@
-<img width="499" height="198" alt="Screenshot 2026-06-18 114456" src="https://github.com/user-attachments/assets/93dc5515-9f06-49c0-a8fa-38dee9aec699" />Pattern Generator & Number Analyzer
+Pattern Generator & Number Analyzer
 
 A simple yet interactive Python Console Application that allows users to:
 
@@ -79,7 +79,8 @@ Save your screenshot as: screenshots/number-analyzer.png
 
 Save your screenshot as: screenshots/exit-program.png
 
-[Uploading Screenshot 2026-06-18 114550.png…]()
+<img width="494" height="79" alt="Screenshot 2026-06-18 114550" src="https://github.com/user-attachments/assets/2630077e-0181-4926-a1cb-e3334d2eae21" />
+
 
 
 💻 Source Code Preview
