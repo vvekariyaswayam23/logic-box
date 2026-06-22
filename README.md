@@ -45,7 +45,6 @@ Sum of Total Number from 1 To 10 is :- 55
 ├── pattern & num.py
 ├── README.md
 └── screenshots/
-<img width="503" height="239" alt="Screenshot 2026-06-18 114336" src="https://github.com/user-attachments/assets/eec2627b-4234-4469-bf07-48044096c68b" />
 
 ▶️ How to Run
 Clone Repository
@@ -73,7 +72,8 @@ Save your screenshot as: screenshots/pattern-generator.png
 
 Save your screenshot as: screenshots/number-analyzer.png
 
-![Number Analyzer](Screenshot 2026-06-18 114456)
+<img width="499" height="198" alt="Screenshot 2026-06-18 114456" src="https://github.com/user-attachments/assets/4e66711d-475e-4276-b7b2-b28a0f4028ad" />
+
 
 👋 Exit Program
 
