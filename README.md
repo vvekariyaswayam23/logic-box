@@ -66,20 +66,20 @@ Select Option..
 
 Save your screenshot as: screenshots/pattern-generator.png
 
-<img width="499" height="198" alt="Screenshot 2026-06-18 114456" src="https://github.com/user-attachments/assets/80d121f3-73b3-43b3-8161-f94326083fba" />
+
 
 🔢 Number Analyzer
 
 Save your screenshot as: screenshots/number-analyzer.png
 
-<img width="499" height="198" alt="Screenshot 2026-06-18 114456" src="https://github.com/user-attachments/assets/4e66711d-475e-4276-b7b2-b28a0f4028ad" />
+
 
 
 👋 Exit Program
 
 Save your screenshot as: screenshots/exit-program.png
 
-<img width="494" height="79" alt="Screenshot 2026-06-18 114550" src="https://github.com/user-attachments/assets/2630077e-0181-4926-a1cb-e3334d2eae21" />
+
 
 
 
